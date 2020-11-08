@@ -16,9 +16,10 @@ list1 = [5, 7, 3]
 print(15 not in list1)
 if 15 not in list1:
     print("No its not in the list")
+    #if you add 15 and run the program then they print bool True only
 
 
-For Driving Approval
+#For Driving Approval
 print("What is your age?")
 age = int(input())
 if age<18:
