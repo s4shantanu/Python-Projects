@@ -1,5 +1,4 @@
-# Create a dictionary and take input from the user and return the meaning of the
-# word from the dictionary
+# Add the words Here for Basic Dictionary program
 
 Dict = {"ignore":"refuse to take notice of or acknowledge",
         "abandon":"cease to support or look after",
