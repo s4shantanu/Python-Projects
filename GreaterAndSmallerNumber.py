@@ -1,3 +1,4 @@
+#This is just a code like Greater and Smaller Number like Comparision Oprator Used
 a = int(input("enter A\n"))
 b = int(input("enter B\n"))
 
