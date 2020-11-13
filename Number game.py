@@ -1,4 +1,6 @@
-#Guess the Numbrer
+#Guess the Numbrer till 9 Times.
+#21 is the guessing number.
+#9 chances to win.
 
 n = 21
 number_of_guesses = 1
